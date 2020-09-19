@@ -54,12 +54,13 @@ Pen and paper, colored pencils optional
 ## Student Reflections, Takeaways & Next Steps
 Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next level and gain mastery of the subject through independent study.
 
-* Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
-Option #1
+Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
+* Option #1
   * First Steps - Think about everyday objects or experiences that you would like to redesign
   * Next Steps - Practice envisioning, sketching, or talking about ways you would redesign these objects and experiences 
   * Big Steps - Using themes from the design you envisioned, think about ways to implement changes in the ways you relate to objects and technologies around you. How can you use technology in ways that center your autonomy and privacy?
-Option #2
+  
+* Option #2
   * First Steps - Think about one digital platform that you use regularly and brainstorm one way you could use it more safely in the future? 
   * Next Steps - Fill out these worksheets to do a full [data detox](https://cdn.ttc.io/s/datadetoxkit.org/youth/Data-Detox-x-Youth_EN.pdf).
   * Big Steps - Discuss the worksheets with a friend. Are there practices or strategies you all can think of to communicate and relate more safely online? 
