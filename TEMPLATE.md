@@ -22,10 +22,10 @@ Ages 16-22
 - Students will walk away with more knowledge about how to navigate risk and privacy while relating with each other on digital platforms. They will also walk away with a deeper understanding of how they can use the framework of speculative design to imagine and build more loving ways of communicating.
 
 ### Pacing / Duration
-20 min: Relationship building and intimacy online 
-20 min: Digital security discussion and skillbuilding 
-25 min: Breakout rooms into speculative design activity
-25 min Shareback by group
+- 20 min: Relationship building and intimacy online 
+- 20 min: Digital security discussion and skillbuilding 
+- 25 min: Breakout rooms into speculative design activity
+- 25 min Shareback by group
 
 ## Materials Needed
 Pen and paper, colored pencils optional
