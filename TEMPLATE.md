@@ -18,27 +18,17 @@ Join us for a discussion and workshop about intimacy, relationship-building, and
 Ages 16-22
 
 ### Outcomes & Goals
-This can be easily answered by completing these example sentences:
-* In this workshop we will be… (soldering, setting up a RPi home network, making a wearable that communicates with….)
-* Students will walk away with a deeper understanding of…
+- In this workshop we will be building skills for navigating privacy and consent in the text messages, DMs, snaps, and images we share with each other online.
+- Students will walk away with more knowledge about how to navigate risk and privacy while relating with each other on digital platforms. They will also walk away with a deeper understanding of how they can use the framework of speculative design to imagine and build more loving ways of communicating.
 
 ### Pacing / Duration
-Number of total hours the unit will take in a typical workshop session(s). Please try to take into account transition time between instruction and hands on exercises if any prep is necessary.
-
-- Break down of the class schedule example: 
-  - :15 Overview, context, examples and vocabulary 
-  - :20 Instruction & hands on exercise 
-  - :15 Wrap-up discussion & sharing, reflection or journal and next steps
+20 min: Relationship building and intimacy online 
+20 min: Digital security discussion and skillbuilding 
+25 min: Breakout rooms into speculative design activity
+25 min Shareback by group
 
 ## Materials Needed
-What hardware, software, or other materials will students or teachers need for lessons.
-
-### Exercises To Do Before Class
-What materials (readings, tasks, exercises) should students complete before class to be prepared for the lesson.
-
-### Vocabulary (example)
-* Program: A procedure, or set of instructions, that performs a specific task when executed by a computer. 
-* Programming Language: The human-readable commands and syntax (or grammar rules) used to write programs. 
+Pen and paper, colored pencils optional
 
 ## Exercise Descriptions
 Descriptions of each exercise or phase of class. Similar to pacing but with more description of steps.
