@@ -69,7 +69,7 @@ Option #2
 ## Post Session
 
 ### References
-This session is inspired by the work of Ruha Benjamin, Melanie Hoff (particularly Melanie’s recent Digital Love Languages class at the School for Poetic Computation), and the [Investing in Futures: Beyond Policing] (https://medium.com/@moreandmoreunlimited/investing-in-futures-beyond-policing-7b1f44f846f3) workshops held in the summer of 2020.  
+This session is inspired by the work of Ruha Benjamin, Melanie Hoff (particularly Melanie’s recent Digital Love Languages class at the School for Poetic Computation), and the [Investing in Futures: Beyond Policing](https://medium.com/@moreandmoreunlimited/investing-in-futures-beyond-policing-7b1f44f846f3) workshops held in the summer of 2020.  
 
 ### Implementation Guidance & Teaching Reflection  
 e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
