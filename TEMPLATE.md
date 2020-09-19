@@ -1,28 +1,21 @@
-# About Our Template
-
-Eyebeam's educational focus is to promote artist-led, STEAM based education. This template is intended for our teaching artists to document their lessons with a larger goal for their curriculum to be referenced or used more easily in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
-
-This template is based off of NYC Department of Education's CS4All Blueprint to teach creative computing. For more information on the core components they advise teachers and classes focus on, and to give the students the competency to be better prepared to engage with more difficult STEM lessons, I highly encourage you to read about [their approach here](https://blueprint.cs4all.nyc/what-is-cs/).
-
-# TEMPLATE BELOW
-
-## Class Title
+## Passing Notes: How to Flirt (Safely) in Digital Space
 
 ## Authors
 Your name (please include collaborators or funding institutions that have supported this work) and links to your site or Github.
 
 ## Essential Questions
-Questions that lead to meaningful exploration of CS concepts and practices. Examples:
-- How can programming represent your ideas and beliefs?
-- How might we use math to express ourselves creatively?
-- How might we use computing to impact our community?
-- What information is my computer sharing about me or my online activity?
+- What does consent and pleasure look like in digital spaces?
+- How can we learn to navigate risk and privacy while relating with each other on platforms that collect our data? 
+- How can we imagine and design liberatory, playful, and pleasurable messaging platforms that we would want to use? 
+- How can we use the framework of speculative design to imagine and build more loving ways of communicating?
+
 
 ## Introduction
-Please provide a narrative of what the unit is about, and why we should learn it that is simple enough that a student could read and understand. Example: "In this workship we will be using ... to explore ... so that you have a better understanding of how ..."
+Join us for a discussion and workshop about intimacy, relationship-building, and pleasure on digital platforms. We’ll build skills for navigating privacy and consent in the text messages, DMs, snaps, and images we share with each other online. Drawing on our collective experiences with intimacy on the internet, we will work together to vision and design the safe, playful, digital platforms of our dreams.
+
 
 ### Target Audience / Prerequisite & Pre-Assessment
-What age range is this exercise designed for and what do students and teachers need to know or be able to do to be successful in the workshop? Any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class.
+Ages 16-22
 
 ### Outcomes & Goals
 This can be easily answered by completing these example sentences:
