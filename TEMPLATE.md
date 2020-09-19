@@ -1,7 +1,7 @@
 ## Passing Notes: How to Flirt (Safely) in Digital Space
 
 ## Authors
-[Amber Officer-Narvasa] (amberonarvasa.weebly.com/work) Janine Ko  (please include collaborators or funding institutions that have supported this work) and links to your site or Github.
+[Amber Officer-Narvasa](amberonarvasa.weebly.com/work) and Janine Ko  
 
 ## Essential Questions
 - What does consent and pleasure look like in digital spaces?
@@ -61,7 +61,7 @@ Option #1
   * Big Steps - Using themes from the design you envisioned, think about ways to implement changes in the ways you relate to objects and technologies around you. How can you use technology in ways that center your autonomy and privacy?
 Option #2
   * First Steps - Think about one digital platform that you use regularly and brainstorm one way you could use it more safely in the future? 
-  * Next Steps - Fill out these worksheets to do a full [data detox] (https://cdn.ttc.io/s/datadetoxkit.org/youth/Data-Detox-x-Youth_EN.pdf).
+  * Next Steps - Fill out these worksheets to do a full [data detox](https://cdn.ttc.io/s/datadetoxkit.org/youth/Data-Detox-x-Youth_EN.pdf).
   * Big Steps - Discuss the worksheets with a friend. Are there practices or strategies you all can think of to communicate and relate more safely online? 
 
 * Presentation: Students can share their work on Instagram, Twitter, and Tumblr.
